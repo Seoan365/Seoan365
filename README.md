@@ -1,16 +1,20 @@
-## Hi there 👋
+<img width="1080" height="1080" alt="Seoan365" src="https://github.com/user-attachments/assets/605c20e6-add2-4448-945d-350a480d9474" />
 
-<!--
-**Seoan365/Seoan365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello, And Welcome to Seoan365s profile! 
 
-Here are some ideas to get you started:
+Hello, im **Seoan365**, a 9 Years kid that use codings to make a skill *because* my **Dream Is *Programmer!***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I use many coding languages to make my Skills Up Such like:
+
+* HTML: For making website
+* Javascript & Typescript: For Programmings to make an App
+* JSX & TSX: For Frontend Previews(like Items.tsx)
+
+All coding languages that i use:
+
+HTML5, CSS3, Javascript, Tailwindcss, Bootstrap, Typescript, React, Redux, Next.js, Node.js, Three.js, Vue.js, Chart.js, PHP, MySQL, MongoDB, Figma, C#, Dart, Flutter
+
+💬 Let's Connect
+
+* Email : [Send Email](mailto:gseoan777@gmail.com)
+* GitHub : [Here!](github.com/Seoan365)
