@@ -2,9 +2,9 @@
 
 # 👋 Hello, And Welcome to Seoan365s profile! 
 
-Hello, im **Seoan365**, a 9 Years kid that use codings to make a skill *because* my **Dream Is *Programmer!***
+Hello, im **Seoan365**, a a 9-year-old developer that use coding to improve my skills *because* my **Dream Is *Programmer!***
 
-I use many coding languages to make my Skills Up Such like:
+I use many coding languages to make my improve my skills Such like:
 
 * HTML: For making website
 * Javascript & Typescript: For Programmings to make an App
