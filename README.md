@@ -27,7 +27,9 @@ iOS, Android, Windows 10, MacOS
 IDEs And For Teams
 I surely recommend these things:
 
-VSCode, For Almost every languages, many Extensions. Made From Microsoft. [Download Visual Studio Code](https://code.visualstudio.com/download)
+VSCode, For Almost every languages, many Extensions. Made From Microsoft. Here is certain downloads:
+
+
 
 PyCharm, an IDE For Python, recommended for python users. [Download PyCharm](https://www.jetbrains.com/pycharm/download/)
 
