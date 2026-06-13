@@ -14,7 +14,28 @@ All coding languages that i use:
 
 HTML5, CSS3, Javascript, Tailwindcss, Bootstrap, Typescript, React, Redux, Next.js, Node.js, Three.js, Vue.js, Chart.js, PHP, MySQL, MongoDB, Figma, C#, Dart, Flutter
 
-💬 Let's Connect
+<img src="https://resources.jetbrains.com/storage/wtui/logos/html_dark.svg" style="width: 32px; height: 32px;" alt="HTML" />
+<img src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png" style="width: 45px; height: 24px;" ait="CSS" />
+
+Every Devices:
+
+iOS, Android, Windows 10, MacOS
+
+
+# Recommendations
+
+IDEs And For Teams
+I surely recommend these things:
+
+VSCode, For Almost every languages, many Extensions. Made From Misrosoft. Downloads ↓↓
+
+
+
+
+PyCharm, an IDE For Python, recommended for python users. <a href="https://www.jetbrains.com/pycharm/download/?section=windows"></a>
+
+
+**💬 Let's Connect**
 
 * Email : [Send Email](mailto:gseoan777@gmail.com)
 * GitHub : [Here!](github.com/Seoan365)
