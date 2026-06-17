@@ -29,7 +29,7 @@ I surely recommend these things:
 
 VSCode, For Almost every languages, many Extensions. Made From Microsoft. Here is certain downloads:
 
-
+[Download VSCode](https://code.visualstudio.com/download/)
 
 PyCharm, an IDE For Python, recommended for python users. [Download PyCharm](https://www.jetbrains.com/pycharm/download/)
 
