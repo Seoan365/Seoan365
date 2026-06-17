@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="style.css" />
-
 <img width="1080" height="1080" alt="Seoan365" src="https://github.com/user-attachments/assets/605c20e6-add2-4448-945d-350a480d9474" />
 
 # 👋 Hello, And Welcome to Seoan365s profile! 
@@ -16,8 +14,7 @@ Every Devices and Brands:
 
 iOS, Android, Windows, MacOS, Linux, Jetbrains, Microsoft
 
-<img width="48" height="48" alt="icons8-ios-48" src="https://github.com/user-attachments/assets/c6f0e24c-f19b-407b-a138-741f988c377a" /><img width="48" height="48" alt="icons8-안드로이드-os-48" src="https://github.com/user-attachments/assets/04d221d0-ba5e-474f-bc01-3cf38e127b0f" /><img width="48" height="48" alt="icons8-윈도우-10-48" src="https://github.com/user-attachments/assets/f34ea7dd-8a49-4fd3-afe3-0b274ca491f0" /><img width="48" height="48" alt="icons8-맥-클라이언트-48" src="https://github.com/user-attachments/assets/dc4c93ef-6aea-4c68-bf8a-29062ac976a0" /><img width="48" height="48" alt="icons8-리눅스-48" src="https://github.com/user-attachments/assets/d6699d1d-3226-45b2-808b-38e52a8950ee" />
-<img src="https://download.logo.wine/logo/JetBrains/JetBrains-Logo.wine.png" alt="JetBrains" style="width: 75px; height: 57px;" />
+<img width="48" height="48" alt="icons8-ios-48" src="https://github.com/user-attachments/assets/c6f0e24c-f19b-407b-a138-741f988c377a" /><img width="48" height="48" alt="icons8-안드로이드-os-48" src="https://github.com/user-attachments/assets/04d221d0-ba5e-474f-bc01-3cf38e127b0f" /><img width="48" height="48" alt="icons8-윈도우-10-48" src="https://github.com/user-attachments/assets/f34ea7dd-8a49-4fd3-afe3-0b274ca491f0" /><img width="48" height="48" alt="icons8-맥-클라이언트-48" src="https://github.com/user-attachments/assets/dc4c93ef-6aea-4c68-bf8a-29062ac976a0" /><img width="48" height="48" alt="icons8-리눅스-48" src="https://github.com/user-attachments/assets/d6699d1d-3226-45b2-808b-38e52a8950ee" /><img src="https://download.logo.wine/logo/JetBrains/JetBrains-Logo.wine.png" alt="JetBrains" style="width: 75px; height: 57px;" /><img style="width: 75px; height: 57px;" alt="28350-5-microsoft-logo-photos_48x48" src="https://github.com/user-attachments/assets/fb5eac7a-0797-4f70-a67f-294e60501009" />
 
 # Recommendations
 
