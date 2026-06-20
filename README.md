@@ -21,6 +21,104 @@ iOS, Android, Windows, MacOS, Linux, Jetbrains, Microsoft
 
 <img width="48" height="48" alt="icons8-ios-48" src="https://github.com/user-attachments/assets/c6f0e24c-f19b-407b-a138-741f988c377a" /><img width="48" height="48" alt="icons8-안드로이드-os-48" src="https://github.com/user-attachments/assets/04d221d0-ba5e-474f-bc01-3cf38e127b0f" /><img width="48" height="48" alt="icons8-윈도우-10-48" src="https://github.com/user-attachments/assets/f34ea7dd-8a49-4fd3-afe3-0b274ca491f0" /><img width="48" height="48" alt="icons8-맥-클라이언트-48" src="https://github.com/user-attachments/assets/dc4c93ef-6aea-4c68-bf8a-29062ac976a0" /><img width="48" height="48" alt="icons8-리눅스-48" src="https://github.com/user-attachments/assets/d6699d1d-3226-45b2-808b-38e52a8950ee" /><img src="https://download.logo.wine/logo/JetBrains/JetBrains-Logo.wine.png" alt="JetBrains" style="width: 75px; height: 57px;" /><img style="width: 75px; height: 57px;" alt="28350-5-microsoft-logo-photos_48x48" src="https://github.com/user-attachments/assets/fb5eac7a-0797-4f70-a67f-294e60501009" />
 
+Every AIs and IDEs use:
+
+Microsoft Visual Studio Code, IntelliJ IDEA, Pycharm, Rider, CLion, DataGrip, Webstorm
+
+# Abouts
+
+#### Microsoft VSCode
+
+# The open source AI code editor
+
+# Agents that build for you
+
+Hand off tasks to AI agents that autonomously plan, make code changes, run commands, and iterate until the job is done.
+
+For example, assign a CLI-based agent to triage and fix bugs in the background, interact with another agent to implement a feature using live validation in the integrated browser, and delegate a homepage redesign to a cloud agent that opens a pull request for your team to review.
+
+### Any agent, any model
+
+Use the agent harness that fits your workflow. Run agents locally or in the cloud, with Copilot or third-party providers like Claude and OpenAI.
+
+Choose from dozens of models across providers, from fast completion models to advanced reasoning models. Or bring your own key to use any model from any provider.
+
+### All your sessions, one view
+
+Stay productive while multiple agents work on tasks in parallel. Track all your agent sessions from a single view, regardless of where they run.
+
+Quickly filter and monitor sessions, or dive into an individual agent interaction, without switching to a different tool or terminal.
+
+### Your rules, your agents
+
+Ensure agents follow your practices and team workflows. Define custom instructions, add agent skills, or build custom agents tailored to your project.
+
+Connect to external tools and services with MCP servers, or install agent plugins or extensions to expand the agent's capabilities.
+
+### A world-class code editor at its core
+
+VS Code has been the editor of choice for millions of developers for over a decade. AI-powered inline suggestions, intelligent completions, and a rich editing experience make it just as powerful when you're writing code yourself.
+
+Seamlessly switch between working with agents and hands-on coding, all within the same editor.
+
+# Code with extensions
+
+Extend your agents with tools from extensions and Model Context Protocol servers. Or, build your own extension to power your team's unique scenarios. 
+
+# Code in any language
+
+VS Code supports almost every major programming language. Several ship in the box, like JavaScript, TypeScript, CSS, and HTML, but extensions for others can be found in the VS Code Marketplace. 
+
+# Fully customizable
+
+Customize your VS Code UI and layout so that it fits your coding style.
+
+Color themes let you modify the colors in VS Code's user interface to suit your preferences and work environment.
+
+Settings Sync enables you to share your user settings across your VS Code instances with the Settings Sync feature.
+
+Profiles let you create sets of customizations and quickly switch between them or share them with others.
+
+# Code anywhere
+
+Code wherever you're most productive, whether you're connected to the cloud, a remote repository, or in the browser with VS Code for the Web (vscode.dev).
+
+Built-in Source Control empowers you with Git support out-of-the-box. Many other source control providers are available through extensions.
+
+GitHub Codespaces provides cloud-powered development environments for any activity - whether it's a long-term project, or a short-term task like reviewing a pull request.
+
+# Code with rich features
+
+There's a lot more to an editor. Whether it's using built-in features or rich extensions, there's something for everyone.
+<table style="border-radius: 5px solid #ccc; border: 25px 25px 25px 25px; background-color: ghostwhite;">
+  <tr>
+    <td>
+      <img width="32" height="32" alt="terminal" src="https://github.com/user-attachments/assets/9e2bab3e-e37e-44ac-820f-507e1fd71cc3" />
+      <h4>Integrated terminal</h4>
+      Use your favorite shell whether its zsh, pwsh, or git bash, all inside the editor.
+    </td>
+    <td>
+      <img width="32" height="32" alt="noun-debug-83827" src="https://github.com/user-attachments/assets/bad39d67-0751-459b-9da8-582f44ad3576" />
+      <h4>Run and Debug</h4>
+      Run and debug your code without leaving your editor.
+    </td>
+    <td>
+      <img width="32" height="32" alt="icons8-git-branch-32" src="https://github.com/user-attachments/assets/2526ad6b-d2e5-42b1-8e90-359422d580f0" />
+      <h4>Version control</h4>
+      Built-in support for git and many other souce control providers.
+    </td>
+    <td>
+      <img width="32" height="32" alt="icons8-tools-32" src="https://github.com/user-attachments/assets/277ed688-2a36-40d1-afb3-950e0a4a0d73" />
+      <h4>Build tasks</h4>
+      Run tools and analyze their results from within VS Code.
+    </td>
+  </tr>
+</table>
+
+
+___
+___
+
 # Recommendations
 
 **IDEs**
@@ -50,6 +148,8 @@ Claude, an AI that Anthropic made. Its Best Coding AI for me! [Download Claude](
 # 2. Anysphere
 
 Cursor, an AI that is powerful with frontend/backend. It even connected with VSCode! [Download Cursor](https://cursor.com/get-started?utm_source=google_paid&utm_campaign=[Search]%20[Brand]%20[EN]%20[APAC%20T1]%20[Broad]%20[VBB]%20Brand&utm_term=cursor%20ai%20code%20agent&utm_medium=paid&utm_content=799754930543&cc_platform=google&cc_campaignid=23639215328&cc_adgroupid=194817005460&cc_adid=799754930543&cc_keyword=cursor%20ai%20code%20agent&cc_matchtype=b&cc_device=c&cc_network=g&cc_placement=&cc_location=1009838&cc_adposition=&gad_source=1&gad_campaignid=23639215328&gclid=Cj0KCQjwi8nRBhDhARIsAHZf_pZL3OVXm8sMaWpLEGUYwZzrwMR4f5uG9xokSgdq9oXnltAVVTpie80aAqmbEALw_wcB)
+
+### Your home for multi-agent development
 
 **💬 Let's Connect**
 
