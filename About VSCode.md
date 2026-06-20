@@ -34,11 +34,37 @@ Seamlessly switch between working with agents and hands-on coding, all within th
 
 # Code with extensions
 
-Extend your agents with tools from extensions and Model Context Protocol servers. Or, build your own extension to power your team's unique scenarios. 
+Extend your agents with tools from extensions and Model Context Protocol servers. Or, <a href="https://code.visualstudio.com/api/extension-guides/ai/ai-extensibility-overview/">build your own extension</a> to power your team's unique scenarios.
+
+<button onclick="windows.location.href='https://marketplace.visualstudio.com/items?itemName=ms-python.python' ">
+  <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/f403ebdf-f1df-4dc7-9ff5-5eb7bca23a31" />
+  <br />
+</button>
+<button onclick="windows.location.href='https://marketplace.visualstudio.com/items?itemName=Stripe.vscode-stripe' ">
+  <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/7f6487a9-2e33-413d-88c9-c6a6714ff24f" />
+  <br />
+</button>
+<button onclick="windows.location.href='https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools' ">
+  <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/5b387d10-24f9-4a60-b1f9-091227acac31" />
+</button>
+
 
 # Code in any language
 
-VS Code supports almost every major programming language. Several ship in the box, like JavaScript, TypeScript, CSS, and HTML, but extensions for others can be found in the VS Code Marketplace. 
+VS Code supports almost every major programming language. Several ship in the box, like JavaScript, TypeScript, CSS, and HTML, but extensions for others can be found in the VS Code Marketplace.
+
+<img width="24" height="24" alt="language-js" src="https://github.com/user-attachments/assets/e7c374a0-e2de-46e5-a95a-7e1a5f888744" />`Javascript`
+<img width="32" height="32" alt="language-ts" src="https://github.com/user-attachments/assets/cd68b8f1-188b-4578-94bb-1b233b2ff78a" /> `TypeScript`
+<img width="32" height="32" alt="language-python" src="https://github.com/user-attachments/assets/d11b4db0-8535-44d4-8ee8-025ec51e9586" /> `Python`
+<img width="32" height="32" alt="language-cs" src="https://github.com/user-attachments/assets/c18c0599-1b5a-4146-9757-f71375d9911b" />`C#`
+<img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/13949006-7b16-4dc5-b940-ea4ee0b3e659" />
+<img width="32" height="32" alt="language-html" src="https://github.com/user-attachments/assets/1cc67e43-a09f-4417-b460-bff85b7cd663" /> `HTML`
+<img width="32" height="32" alt="language-java" src="https://github.com/user-attachments/assets/5c1fa316-1626-4d0d-912b-6d3f5c708323" /> `Java`
+<img width="32" height="32" alt="language-json" src="https://github.com/user-attachments/assets/55e63940-ac63-4de2-9753-c008baaa0585" /> `JSON`
+<img width="32" height="22" alt="language-php" src="https://github.com/user-attachments/assets/8748ba9d-c68e-4bf2-89d6-cc3a70fa4c6a" /> `php`
+<img width="32" height="32" alt="language-markdown" src="https://github.com/user-attachments/assets/9fddcb53-c79b-4ff2-9dba-3073a78db3d9" /> `Markdown`
+<img width="32" height="32" alt="language-powershell" src="https://github.com/user-attachments/assets/13aa4ff8-84c4-4ae5-a0fb-d7398b6abd53" /> `Powershell`
+<img width="32" height="32" alt="language-yaml" src="https://github.com/user-attachments/assets/8ac889bd-da5c-4da5-a664-c81a526df8a7" /> `Yaml`
 
 # Fully customizable
 
@@ -49,6 +75,8 @@ Color themes let you modify the colors in VS Code's user interface to suit your 
 Settings Sync enables you to share your user settings across your VS Code instances with the Settings Sync feature.
 
 Profiles let you create sets of customizations and quickly switch between them or share them with others.
+
+<img width="1866" height="1034" alt="image" src="https://github.com/user-attachments/assets/686bf96d-e395-42c7-b868-4b3cb941fa81" />
 
 # Code anywhere
 
