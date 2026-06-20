@@ -1,8 +1,8 @@
-#### About Microsoft VSCode
+# About Microsoft VSCode
 
-# The open source AI code editor
+## The open source AI code editor
 
-# Agents that build for you
+### Agents that build for you
 
 Hand off tasks to AI agents that autonomously plan, make code changes, run commands, and iterate until the job is done.
 
