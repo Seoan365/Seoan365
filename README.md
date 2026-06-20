@@ -19,9 +19,9 @@ iOS, Android, Windows, MacOS, Linux, Jetbrains, Microsoft
 
 Every AIs and IDEs and for Teams I use:
 
-Microsoft Visual Studio Code, IntelliJ IDEA, Pycharm, Rider, CLion, DataGrip, Webstorm, TeamCity, YouTrack, Qodana, Datalore.>
+Microsoft Visual Studio Code, IntelliJ IDEA, Pycharm, Rider, CLion, DataGrip, Webstorm, TeamCity, YouTrack, Qodana, Datalore.
 
-
+<a href="About VSCode.md">About VSCode</a>
 ___
 ___
 
