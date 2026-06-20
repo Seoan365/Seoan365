@@ -4,7 +4,7 @@ Hello, im **Seoan365**, a 9-year-old developer that use coding to improve my ski
 
 All coding languages that i use:
 
-HTML5, CSS3, Javascript, Tailwindcss, Bootstrap, Typescript, React, Redux, Next.js, Node.js, Three.js, Vue.js, Chart.js, PHP, MySQL, MongoDB, Figma, C#, Dart, Flutter, C/C++
+HTML5, CSS3, Javascript, Tailwindcss, Bootstrap, Typescript, React, Redux, Electron, Next.js, Node.js, Three.js, Vue.js, Chart.js, PHP, MySQL, MongoDB, Figma, C#, Dart, Flutter, C/C++
 <br />
 
 
