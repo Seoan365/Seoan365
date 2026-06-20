@@ -21,7 +21,6 @@ Every AIs and IDEs and for Teams I use:
 
 Microsoft Visual Studio Code, IntelliJ IDEA, Pycharm, Rider, CLion, DataGrip, Webstorm, TeamCity, YouTrack, Qodana, Datalore.>
 
-<img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/84561d91-7093-4905-8f55-9e9e8e3a5ec8" /><img width="48" height="48" alt="svgviewer-output" src="https://github.com/user-attachments/assets/a7b82413-f969-4bf5-8d76-92718d7125d8" /><img width="48" height="48" alt="svgviewer-output (1)" src="https://github.com/user-attachments/assets/f63adaf4-44a7-4854-97e2-02b992c40145" /> ...
 
 ___
 ___
