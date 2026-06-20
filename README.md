@@ -1,7 +1,3 @@
-<link rel="stylesheet" href="style.css" />
-
-<img width="1080" height="1080" alt="Seoan365" src="https://github.com/user-attachments/assets/605c20e6-add2-4448-945d-350a480d9474" />
-
 # 👋 Hello, And Welcome to Seoan365s profile! 
 
 Hello, im **Seoan365**, a 9-year-old developer that use coding to improve my skills *because* my **Dream Is *Programmer!***
@@ -13,7 +9,7 @@ HTML5, CSS3, Javascript, Tailwindcss, Bootstrap, Typescript, React, Redux, Next.
 
 
 
-<img src="https://resources.jetbrains.com/storage/wtui/logos/html_dark.svg" style="width: 48px; height: 48px;" alt="HTML" /><img src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png" style="width: 48px; height: 30px" alt="CSS" /><img src="https://resources.jetbrains.com/storage/wtui/logos/javascript_dark.svg" alt="JS" style="width: 48px; height: 48px" /><img width="48" height="48" alt="icons8-tailwind-css-48" src="https://github.com/user-attachments/assets/794bf363-f6b6-4eef-a2ea-925ae0a0f51c" /><img width="48" height="48" alt="icons8-부트-스트랩-48" src="https://github.com/user-attachments/assets/4b48fbdc-f6ff-4837-934a-a1ca19536b60" /><img src="https://resources.jetbrains.com/storage/wtui/logos/typescript_dark.svg" alt="TS" style="width: 48px; height: 48px" /><img width="48" height="48" alt="icons8-반응하다-48" src="https://github.com/user-attachments/assets/97d1d221-095c-4d22-965a-92bca362f630" /><img width="48" height="48" alt="icons8-리덕스-48" src="https://github.com/user-attachments/assets/949dfd4d-06d4-4ce4-8c67-6131fbf44135" /><img width="48" height="48" alt="electron-icon" src="https://github.com/user-attachments/assets/f2b24406-1b7f-4a44-8d16-1c3e02317e95" /><img width="48" height="48" alt="icons8-넥스트-48" src="https://github.com/user-attachments/assets/4421c3e7-c4f5-4426-931d-1fa7dd33c81b" /><img width="48" height="48" alt="icons8-노드-js-48" src="https://github.com/user-attachments/assets/9e581c87-2a5f-4f21-8a26-63acbd86933b" /><img width="48" height="48" alt="three-js-icon" src="https://github.com/user-attachments/assets/82716119-0329-4e5b-ba61-61e5a0c66dac" /><img width="48" height="48" alt="icons8-뷰 js-48" src="https://github.com/user-attachments/assets/081188b9-3ab0-430f-968a-28c37d8d2a66" /><img src="https://cdn.brandfetch.io/domain/chartjs.org/fallback/lettermark/theme/dark/h/400/w/400/icon?c=1bfwsmEH20zzEfSNTed" alt="Chartjs" style="width: 96px; height: 96px;" /><img width="48" height="48" alt="icons8-php-48" src="https://github.com/user-attachments/assets/6d258078-dd7b-41f1-972f-b74393a29a84" /><img width="48" height="48" alt="icons8-mysql-48" src="https://github.com/user-attachments/assets/f042baad-7548-45d6-a050-45507135ffe3" /><img width="48" height="48" alt="icons8-mongodb-48" src="https://github.com/user-attachments/assets/0ca00d15-4b02-4781-a05c-dfd716951bf6" /><img width="48" height="48" alt="icons8-피그마-48" src="https://github.com/user-attachments/assets/2225cc08-8b63-43da-bdbb-c91dea14e779" /><img width="48" height="48" alt="c-sharp-programming-language-icon" src="https://github.com/user-attachments/assets/f155600c-15da-4c33-993c-17c0107145f4" /><img width="48" height="48" alt="dart-programming-language-icon" src="https://github.com/user-attachments/assets/23e9a3f7-9fa6-4c1b-841d-2d3f8702dfac" /><img width="48" height="48" alt="icons8-설레다-48" src="https://github.com/user-attachments/assets/b72563f1-e1d8-45dd-b4e5-b7a437bb411e" /><img width="48" height="48" alt="c-program-icon" src="https://github.com/user-attachments/assets/3e7b3568-45bb-445a-b6b4-f644cae551af" /><img width="48" height="48" alt="c-plus-plus-programming-language-icon" src="https://github.com/user-attachments/assets/0de38c6e-4042-4ed5-9f8d-72d58d575849" />
+<img src="https://resources.jetbrains.com/storage/wtui/logos/html_dark.svg" style="width: 48px; height: 48px;" alt="HTML" /><img src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png" style="width: 48px; height: 30px" alt="CSS" /><img src="https://resources.jetbrains.com/storage/wtui/logos/javascript_dark.svg" alt="JS" style="width: 48px; height: 48px" /><img width="48" height="48" alt="icons8-tailwind-css-48" src="https://github.com/user-attachments/assets/794bf363-f6b6-4eef-a2ea-925ae0a0f51c" /><img width="48" height="48" alt="icons8-부트-스트랩-48" src="https://github.com/user-attachments/assets/4b48fbdc-f6ff-4837-934a-a1ca19536b60" /><img src="https://resources.jetbrains.com/storage/wtui/logos/typescript_dark.svg" alt="TS" style="width: 48px; height: 48px" /><img width="48" height="48" alt="icons8-반응하다-48" src="https://github.com/user-attachments/assets/97d1d221-095c-4d22-965a-92bca362f630" /><img width="48" height="48" alt="icons8-리덕스-48" src="https://github.com/user-attachments/assets/949dfd4d-06d4-4ce4-8c67-6131fbf44135" /><img width="48" height="48" alt="electron-icon" src="https://github.com/user-attachments/assets/f2b24406-1b7f-4a44-8d16-1c3e02317e95" /><img width="48" height="48" alt="icons8-넥스트-48" src="https://github.com/user-attachments/assets/4421c3e7-c4f5-4426-931d-1fa7dd33c81b" /><img width="48" height="48" alt="icons8-노드-js-48" src="https://github.com/user-attachments/assets/9e581c87-2a5f-4f21-8a26-63acbd86933b" /><img width="48" height="48" alt="three-js-icon" src="https://github.com/user-attachments/assets/82716119-0329-4e5b-ba61-61e5a0c66dac" /><img width="48" height="48" alt="icons8-뷰 js-48" src="https://github.com/user-attachments/assets/081188b9-3ab0-430f-968a-28c37d8d2a66" /><img width="48" height="48" alt="Chartjs--Streamline-Svg-Logos" src="https://github.com/user-attachments/assets/af434040-dcf7-4b2b-b001-f03163ce7eba" /><img width="48" height="48" alt="icons8-php-48" src="https://github.com/user-attachments/assets/6d258078-dd7b-41f1-972f-b74393a29a84" /><img width="48" height="48" alt="icons8-mysql-48" src="https://github.com/user-attachments/assets/f042baad-7548-45d6-a050-45507135ffe3" /><img width="48" height="48" alt="icons8-mongodb-48" src="https://github.com/user-attachments/assets/0ca00d15-4b02-4781-a05c-dfd716951bf6" /><img width="48" height="48" alt="icons8-피그마-48" src="https://github.com/user-attachments/assets/2225cc08-8b63-43da-bdbb-c91dea14e779" /><img width="48" height="48" alt="c-sharp-programming-language-icon" src="https://github.com/user-attachments/assets/f155600c-15da-4c33-993c-17c0107145f4" /><img width="48" height="48" alt="dart-programming-language-icon" src="https://github.com/user-attachments/assets/23e9a3f7-9fa6-4c1b-841d-2d3f8702dfac" /><img width="48" height="48" alt="icons8-설레다-48" src="https://github.com/user-attachments/assets/b72563f1-e1d8-45dd-b4e5-b7a437bb411e" /><img width="48" height="48" alt="c-program-icon" src="https://github.com/user-attachments/assets/3e7b3568-45bb-445a-b6b4-f644cae551af" /><img width="48" height="48" alt="c-plus-plus-programming-language-icon" src="https://github.com/user-attachments/assets/0de38c6e-4042-4ed5-9f8d-72d58d575849" />
 
 Every Devices and Brands:
 
@@ -25,9 +21,7 @@ Every AIs and IDEs use:
 
 Microsoft Visual Studio Code, IntelliJ IDEA, Pycharm, Rider, CLion, DataGrip, Webstorm
 
-# Abouts
-
-#### Microsoft VSCode
+#### About Microsoft VSCode
 
 # The open source AI code editor
 
@@ -93,28 +87,47 @@ There's a lot more to an editor. Whether it's using built-in features or rich ex
 <table style="border-radius: 5px solid #ccc; border: 25px 25px 25px 25px; background-color: ghostwhite;">
   <tr>
     <td>
-      <img width="32" height="32" alt="terminal" src="https://github.com/user-attachments/assets/9e2bab3e-e37e-44ac-820f-507e1fd71cc3" />
+      <img width="32" height="32" alt="svgviewer-png-output" src="https://github.com/user-attachments/assets/9e732178-1191-425c-9e64-d77d8bc09dba" />
       <h4>Integrated terminal</h4>
       Use your favorite shell whether its zsh, pwsh, or git bash, all inside the editor.
     </td>
     <td>
-      <img width="32" height="32" alt="noun-debug-83827" src="https://github.com/user-attachments/assets/bad39d67-0751-459b-9da8-582f44ad3576" />
+      <img width="32" height="32" alt="svgviewer-png-output (2)" src="https://github.com/user-attachments/assets/6874ddbe-fd40-41a3-91a4-a8f416946bb1" />
       <h4>Run and Debug</h4>
       Run and debug your code without leaving your editor.
     </td>
     <td>
-      <img width="32" height="32" alt="icons8-git-branch-32" src="https://github.com/user-attachments/assets/2526ad6b-d2e5-42b1-8e90-359422d580f0" />
+      <img width="32" height="40" alt="svgviewer-png-output (3)" src="https://github.com/user-attachments/assets/70a24d18-ebcb-4aa4-8c39-50a1372f46da" />
       <h4>Version control</h4>
       Built-in support for git and many other souce control providers.
     </td>
     <td>
-      <img width="32" height="32" alt="icons8-tools-32" src="https://github.com/user-attachments/assets/277ed688-2a36-40d1-afb3-950e0a4a0d73" />
+      <img width="32" height="32" alt="svgviewer-png-output (4)" src="https://github.com/user-attachments/assets/e54110fa-50cb-457e-98d2-46805e42044a" />
       <h4>Build tasks</h4>
       Run tools and analyze their results from within VS Code.
     </td>
+    <td>
+    <img width="32" height="32" alt="svgviewer-png-output (5)" src="https://github.com/user-attachments/assets/87b46ff3-9d04-4f80-9aa8-44497fbad7c1" />
+    <h4>Local history</h4>
+    Never lose your changes with automatically tracked local history.
+    </td>
+    <td>
+      <img width="32" height="32" alt="svgviewer-png-output (6)" src="https://github.com/user-attachments/assets/2de6f70c-8e9d-44f2-b6e6-26fc10884687" />
+      <h4>Themes</h4>
+      Your theme is an extension of your personality. Add some flair to your editor and add your touch.
+    </td>
+    <td>
+      <img width="40" height="32" alt="svgviewer-png-output (7)" src="https://github.com/user-attachments/assets/c592d2c6-a148-441f-82f9-dd5ac1f56c30" />
+      <h4>Accessibility</h4>
+      Optimized experience for screen readers, high contrast themes, and keyboard-only nagivation.
+    </td>
+    <td>
+      <img width="32" height="32" alt="svgviewer-png-output (8)" src="https://github.com/user-attachments/assets/7e9b13a7-0312-4312-82da-09361e894c2b" />
+      <h4>Web support</h4>
+      Whether you are phone, tablet, or desktop, you can access our code from anywhere.
+    </td>
   </tr>
 </table>
-
 
 ___
 ___
