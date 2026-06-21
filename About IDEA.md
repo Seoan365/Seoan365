@@ -59,10 +59,6 @@ Cloud and deployment
 Remote development
 <h1>78% of Java developers choose IntelliJ IDEA</h1>
 
-
-
-<img width="64" height="32" alt="svgviewer-png-output (9)" src="https://github.com/user-attachments/assets/be0b3bf0-16d3-46c4-aa6d-141e305f1ee5" />
-
 # Companies worldwide trust IntelliJ IDEA
 
 <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/4359c8cb-b618-489c-a9ba-b4b46b7a7b1f" />
