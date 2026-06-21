@@ -2,6 +2,13 @@
 
 ## The open source AI code editor
 
+#### Your home for multi-agent development
+
+<button onclick="windows.location.href = 'https://code.visualstudio.com/thank-you?dv=win64user'; ">
+<img width="32" height="32" alt="icons8-windows-32 (1)" src="https://github.com/user-attachments/assets/b45e10ef-2c43-4ce8-a923-5e51d18a6416" />
+Download for Windows
+</button>
+
 ### Agents that build for you
 
 Hand off tasks to AI agents that autonomously plan, make code changes, run commands, and iterate until the job is done.
