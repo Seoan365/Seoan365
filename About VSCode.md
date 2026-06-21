@@ -1,3 +1,7 @@
+<nav class="navigation">
+  <buttton onclick="windows.location.href = 'README.md';">Home</a>
+</nav>
+
 # About Microsoft VSCode
 
 ## The open source AI code editor
