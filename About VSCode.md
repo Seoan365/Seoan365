@@ -142,3 +142,5 @@ There's a lot more to an editor. Whether it's using built-in features or rich ex
     </td>
   </tr>
 </table>
+
+© Copyright VSCode. All rights reserved.
