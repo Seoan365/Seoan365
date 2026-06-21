@@ -111,10 +111,12 @@ There's a lot more to an editor. Whether it's using built-in features or rich ex
       <h4>Build tasks</h4>
       Run tools and analyze their results from within VS Code.
     </td>
+  </tr>
+  <tr>
     <td>
-    <img width="32" height="32" alt="svgviewer-png-output (5)" src="https://github.com/user-attachments/assets/87b46ff3-9d04-4f80-9aa8-44497fbad7c1" />
-    <h4>Local history</h4>
-    Never lose your changes with automatically tracked local history.
+      <img width="32" height="32" alt="svgviewer-png-output (5)" src="https://github.com/user-attachments/assets/87b46ff3-9d04-4f80-9aa8-44497fbad7c1" />
+      <h4>Local history</h4>
+      Never lose your changes with automatically tracked local history.
     </td>
     <td>
       <img width="32" height="32" alt="svgviewer-png-output (6)" src="https://github.com/user-attachments/assets/2de6f70c-8e9d-44f2-b6e6-26fc10884687" />
