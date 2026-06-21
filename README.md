@@ -20,18 +20,21 @@ iOS, Android, Windows, MacOS, Linux, Jetbrains, Microsoft
 Every AIs and IDEs and for Teams I use:
 
 Microsoft Visual Studio Code, IntelliJ IDEA, Pycharm, Rider, CLion, DataGrip, Webstorm, TeamCity, YouTrack, Qodana, Datalore.
+<div style="text-decorstion: none;">
+  <a href="About VSCode.md">About VSCode</a> <br />
+  <a href="About IDEA.md">About IDEA</a> <br />
+  <a href="About Pycharm.md">About PyCharm</a> <br />
+  <a href="About Rider.md">About Rider</a> <br />
+  <a href="About CLion.md">About CLion</a> <br />
+  <a href="About DataGrip.md">About DataGrip</a> <br />
+  <a href="About Webstorm.md">About Webstorm</a> <br />
+  <a href="About TeamCity.md">About TeamCity</a> <br />
+  <a href="About YouTrack.md">About YouTrack</a> <br />
+  <a href="About Qodana.md">About Qodana</a> <br />
+  <a href="About Datalore.md">About Datalore</a> <br />
+</div>
 
-<a href="About VSCode.md">About VSCode</a>
-<a href="About IDEA.md">About IDEA</a>
-<a href="About Pycharm.md">About PyCharm</a>
-<a href="About Rider.md">About Rider</a>
-<a href="About CLion.md">About CLion</a>
-<a href="About DataGrip.md">About DataGrip</a>
-<a href="About Webstorm.md">About Webstorm</a>
-<a href="About TeamCity.md">About TeamCity</a>
-<a href="About YouTrack.md">About YouTrack</a>
-<a href="About Qodana.md">About Qodana</a>
-<a href="About Datalore.md">About Datalore</a>
+
 ___
 ___
 
