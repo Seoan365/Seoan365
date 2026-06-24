@@ -20,7 +20,7 @@ iOS, Android, Windows, MacOS, Linux, Jetbrains, Microsoft
 Every AIs and IDEs and for Teams I use:
 
 Microsoft Visual Studio Code, IntelliJ IDEA, Pycharm, Rider, CLion, DataGrip, Webstorm, TeamCity, YouTrack, Qodana, Datalore.
-<div style="text-decorstion: none;">
+<div style="text-decoration: none;">
   <a href="About VSCode.md">About VSCode</a> <br />
   <a href="About IDEA.md">About IDEA</a> <br />
   <a href="About Pycharm.md">About PyCharm</a> <br />
@@ -33,7 +33,10 @@ Microsoft Visual Studio Code, IntelliJ IDEA, Pycharm, Rider, CLion, DataGrip, We
   <a href="About Qodana.md">About Qodana</a> <br />
   <a href="About Datalore.md">About Datalore</a> <br />
 </div>
-
+<div>
+  <a href="About Coding.md">Learn About Coding by me</a>
+  <a href="About Devices.md">Learn About Devices by me</a>
+</div>
 
 ___
 ___
